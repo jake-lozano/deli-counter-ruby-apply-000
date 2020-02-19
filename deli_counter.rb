@@ -1,5 +1,7 @@
 # Write your code here.
-katz_deli = []
+katz_deli = [47, 48, 49]
+
+#
  
  
 def line(array)
@@ -14,8 +16,8 @@ def line(array)
   end
 end
 
-def take_a_number(array, name)
-  puts "Welcome, #{name}. You are number #{array.count + 1} in line."
+def take_a_number(array)
+  puts "Welcome. You are number #{} in line."
   array[array.count] = name
 end
 
