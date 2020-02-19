@@ -16,12 +16,12 @@ def line(array)
   end
 end
 
-count = 1
+counter = 1
 
 def take_a_number(array)
-  puts "Welcome. Your number is #{count}."
-  array << count
-  count += 1
+  puts "Welcome. Your number is #{counter}."
+  array << counter
+  counter += 1
 end
 
 def now_serving(array)
