@@ -19,7 +19,7 @@ end
 count = 1
 
 def take_a_number(array)
-  puts "Welcome. Your number is #{}."
+  puts "Welcome. Your number is #{count}."
   array << count
   count += 1
 end
