@@ -1,5 +1,5 @@
 # Write your code here.
-katz_deli = [47, 48, 49]
+katz_deli = []
 
 #
  
